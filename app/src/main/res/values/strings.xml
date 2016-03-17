@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IncidentResponse</string>
+    <string name="login_text">Log-In</string>
+    <string name="new_account">Create New Account</string>
+    <string name="already_member">Already a Member? Log-In</string>
+    <string name="q1_text">Question 1</string>
+    <string name="q2_text">Question 2</string>
+    <string name="q3_text">Question 3</string>
+    <string name="q4_text">Question 4</string>
+    <string name="q5_text">Question 5</string>
+    <string name="answer_here">Enter Your Answer Here</string>
+
+</resources>
