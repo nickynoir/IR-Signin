@@ -22,8 +22,8 @@ public class LoginActivity extends AppCompatActivity {
         mLoginButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(LoginActivity.this, "This button works!", Toast.LENGTH_SHORT).show();
-                goCasesHome();
+//                Toast.makeText(LoginActivity.this, "This button works!", Toast.LENGTH_SHORT).show();
+                startCasesHome();
             }
         });
 
@@ -40,7 +40,7 @@ public class LoginActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    private void goCasesHome(){
+    private void startCasesHome(){
         Intent intent = new Intent(this, CaseHomeActivity.class);
         startActivity(intent);
     }
