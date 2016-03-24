@@ -13,9 +13,11 @@ import android.widget.Toast;
 
 import com.android.volley.AuthFailureError;
 import com.android.volley.Request;
+import com.android.volley.RequestQueue;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
+import com.android.volley.toolbox.Volley;
 
 import org.w3c.dom.Text;
 
@@ -23,12 +25,14 @@ import java.util.HashMap;
 import java.util.Map;
 
 import edu.nsu.ir.Cases.AppURLS;
+import edu.nsu.ir.Cases.CCase;
 
 public class LSSignupActivity extends AppCompatActivity {
     private Button mNewAccount;
     private Button mLogin;
     private EditText mFistName, mLastName,mUserName, mEmail, mPassword, mCity, mState, mCompany, mExperience, mContact;
     private Context mContext;
+    private CCase cCase;
 
 
 
@@ -40,6 +44,7 @@ public class LSSignupActivity extends AppCompatActivity {
         mNewAccount.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                cCase.setName(mFistName.getText().toString());
                 Toast.makeText(LSSignupActivity.this, "Account Successfully Created", Toast.LENGTH_SHORT).show();
                 Intent intent = new Intent(LSSignupActivity.this, LSLoginActivity.class);
                 startActivity(intent);
@@ -55,7 +60,9 @@ public class LSSignupActivity extends AppCompatActivity {
         });
     }
     private void init(){
-mContext=this;
+        cCase = new CCase();
+
+        mContext=this;
         mNewAccount = (Button)findViewById(edu.nsu.ir.R.id.freshAccountButton);
         mLogin = (Button)findViewById(edu.nsu.ir.R.id.backLogin);
 
@@ -97,6 +104,18 @@ mContext=this;
 //                params.put(AppURLS.KEY_CHURCH, userProfile.getChurch());
 //                params.put(AppURLS.KEY_PASSWORD, userProfile.getPassword());
 //                params.put(AppURLS.KEY_IMAGEURL, userProfile.getImageURL());
+                params.put(AppURLS.F_NAME_KEY, cCase.getName());
+                params.put(AppURLS.L_NAME_KEY, cCase.getName());
+                params.put(AppURLS.USER_NAME_KEY, cCase.getName());
+                params.put(AppURLS.EMAIL_KEY, cCase.getName());
+                params.put(AppURLS.PASSWORD_KEY, cCase.getName());
+                params.put(AppURLS.CITY_KEY, cCase.getName());
+                params.put(AppURLS.STATE_KEY, cCase.getName());
+                params.put(AppURLS.COMPANY_NAME_KEY, cCase.getName());
+                params.put(AppURLS.EXPERIENCE_KEY, cCase.getName());
+                params.put(AppURLS.CONTACT_KEY, cCase.getName());
+
+
 
                 //returning parameter
                 return params;
