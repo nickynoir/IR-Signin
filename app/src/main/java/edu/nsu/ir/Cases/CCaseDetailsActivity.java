@@ -14,12 +14,16 @@ public class CCaseDetailsActivity extends AppCompatActivity {
     private Button mShareButton;
     private RadioGroup mStatusGroup;
     private RadioButton mActiveButton, mClosedButton;
+    private  CCase mCase;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(edu.nsu.ir.R.layout.c_activity_case_details);
+        mCase=getIntent().getParcelableExtra("case");
+        if (mCase!=null){
 
+        }
         mShareButton = (Button)findViewById(edu.nsu.ir.R.id.shareDetailsButton);
         mStatusGroup = (RadioGroup)findViewById(edu.nsu.ir.R.id.caseStatusRadioGroup);
         mActiveButton = (RadioButton)findViewById(edu.nsu.ir.R.id.activeRadioButton);

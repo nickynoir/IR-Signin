@@ -51,7 +51,7 @@ public class CCaseHomeActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
             CCase value=(CCase)parent.getItemAtPosition(position);
                Toast.makeText(getApplicationContext(),value.getName(),Toast.LENGTH_LONG).show();
-                startCaseDetails();
+                startCaseDetails(value);
             }
         });
 
@@ -70,8 +70,10 @@ public class CCaseHomeActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    private void startCaseDetails(){
+    private void startCaseDetails(CCase cCase){
         Intent intent = new Intent(this, CCaseDetailsActivity.class);
+        intent.putExtra("case",cCase);
+
         startActivity(intent);
     }
     private ArrayList<CCase> dummyCases(){
