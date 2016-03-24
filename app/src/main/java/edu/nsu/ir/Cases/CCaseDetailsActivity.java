@@ -1,4 +1,4 @@
-package com.nykyrian_q.incidentresponse1;
+package edu.nsu.ir.Cases;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -9,7 +9,7 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
-public class CaseDetailsActivity extends AppCompatActivity {
+public class CCaseDetailsActivity extends AppCompatActivity {
 
     private Button mShareButton;
     private RadioGroup mStatusGroup;
@@ -18,12 +18,12 @@ public class CaseDetailsActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_case_details);
+        setContentView(edu.nsu.ir.R.layout.c_activity_case_details);
 
-        mShareButton = (Button)findViewById(R.id.shareDetailsButton);
-        mStatusGroup = (RadioGroup)findViewById(R.id.caseStatusRadioGroup);
-        mActiveButton = (RadioButton)findViewById(R.id.activeRadioButton);
-        mClosedButton = (RadioButton)findViewById(R.id.closedRadioButton);
+        mShareButton = (Button)findViewById(edu.nsu.ir.R.id.shareDetailsButton);
+        mStatusGroup = (RadioGroup)findViewById(edu.nsu.ir.R.id.caseStatusRadioGroup);
+        mActiveButton = (RadioButton)findViewById(edu.nsu.ir.R.id.activeRadioButton);
+        mClosedButton = (RadioButton)findViewById(edu.nsu.ir.R.id.closedRadioButton);
 
         mShareButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -33,7 +33,7 @@ public class CaseDetailsActivity extends AppCompatActivity {
         });
     }
     private void startShareView(){
-        Intent intent = new Intent(this, ShareCaseActivity.class);
+        Intent intent = new Intent(this, CShareCaseActivity.class);
         startActivity(intent);
     }
 
@@ -41,13 +41,13 @@ public class CaseDetailsActivity extends AppCompatActivity {
         boolean checked = ((RadioButton) view).isChecked();
 
         switch (view.getId()){
-            case R.id.activeRadioButton:
+            case edu.nsu.ir.R.id.activeRadioButton:
                 if (checked)
-                    Toast.makeText(CaseDetailsActivity.this, "Case is Active", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(CCaseDetailsActivity.this, "Case is Active", Toast.LENGTH_SHORT).show();
                 break;
-            case R.id.closedRadioButton:
+            case edu.nsu.ir.R.id.closedRadioButton:
                 if (checked)
-                    Toast.makeText(CaseDetailsActivity.this, "Case is Closed", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(CCaseDetailsActivity.this, "Case is Closed", Toast.LENGTH_SHORT).show();
         }
     }
 }

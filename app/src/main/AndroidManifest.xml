@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="com.nykyrian_q.incidentresponse1"
+<manifest package="edu.nsu.ir"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
@@ -8,9 +8,9 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="edu.nsu.ir.MainActivity">
         </activity>
-        <activity android:name=".LoginActivity">
+        <activity android:name=".Layout.LSLoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
@@ -18,32 +18,32 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".SignupActivity"
-            android:parentActivityName=".LoginActivity">
+            android:name=".Layout.LSSignupActivity"
+            android:parentActivityName=".Layout.LSLoginActivity">
         </activity>
         <activity
-            android:name=".CaseHomeActivity"
-            android:parentActivityName=".LoginActivity">
+            android:name=".Cases.CCaseHomeActivity"
+            android:parentActivityName=".Layout.LSLoginActivity">
         </activity>
         <activity
-            android:name=".NewCaseActivity"
-            android:parentActivityName=".CaseHomeActivity">
+            android:name=".Cases.CNewCaseActivity"
+            android:parentActivityName=".Cases.CCaseHomeActivity">
         </activity>
         <activity
-            android:name=".QuestionActivity"
-            android:parentActivityName=".NewCaseActivity">
+            android:name=".Cases.CQuestionActivity"
+            android:parentActivityName=".Cases.CNewCaseActivity">
         </activity>
         <activity
-            android:name=".CaseAnalysisActivity"
-            android:parentActivityName=".CaseAnalysisActivity">
+            android:name=".Cases.CCaseAnalysisActivity"
+            android:parentActivityName=".Cases.CCaseAnalysisActivity">
         </activity>
         <activity
-            android:name=".ShareCaseActivity"
-            android:parentActivityName=".CaseHomeActivity">
+            android:name=".Cases.CShareCaseActivity"
+            android:parentActivityName=".Cases.CCaseHomeActivity">
         </activity>
         <activity
-            android:name=".CaseDetailsActivity"
-            android:parentActivityName=".CaseHomeActivity">
+            android:name=".Cases.CCaseDetailsActivity"
+            android:parentActivityName=".Cases.CCaseHomeActivity">
         </activity>
     </application>
 

@@ -1,28 +1,29 @@
-package com.nykyrian_q.incidentresponse1;
+package edu.nsu.ir.Layout;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.Toast;
 
-public class LoginActivity extends AppCompatActivity {
+import edu.nsu.ir.Cases.CCaseHomeActivity;
+
+public class LSLoginActivity extends AppCompatActivity {
     private Button mLoginButton;
     private Button mNewAccountButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
+        setContentView(edu.nsu.ir.R.layout.ls_activity_login);
 
-        mLoginButton = (Button)findViewById(R.id.loginButton);
-        mNewAccountButton = (Button)findViewById(R.id.newAccountButton);
+        mLoginButton = (Button)findViewById(edu.nsu.ir.R.id.loginButton);
+        mNewAccountButton = (Button)findViewById(edu.nsu.ir.R.id.newAccountButton);
 
         mLoginButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-//                Toast.makeText(LoginActivity.this, "This button works!", Toast.LENGTH_SHORT).show();
+//                Toast.makeText(LSLoginActivity.this, "This button works!", Toast.LENGTH_SHORT).show();
                 startCasesHome();
             }
         });
@@ -36,12 +37,12 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     private void startSignup(){
-        Intent intent = new Intent(this, SignupActivity.class);
+        Intent intent = new Intent(this, LSSignupActivity.class);
         startActivity(intent);
     }
 
     private void startCasesHome(){
-        Intent intent = new Intent(this, CaseHomeActivity.class);
+        Intent intent = new Intent(this, CCaseHomeActivity.class);
         startActivity(intent);
     }
 }

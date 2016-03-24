@@ -1,4 +1,4 @@
-package com.nykyrian_q.incidentresponse1;
+package edu.nsu.ir.Cases;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,16 +6,16 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class NewCaseActivity extends AppCompatActivity {
+public class CNewCaseActivity extends AppCompatActivity {
 
     private Button mQuestionButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_new_case);
+        setContentView(edu.nsu.ir.R.layout.c_activity_new_case);
 
-        mQuestionButton = (Button)findViewById(R.id.questionButton);
+        mQuestionButton = (Button)findViewById(edu.nsu.ir.R.id.questionButton);
 
         mQuestionButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -26,7 +26,7 @@ public class NewCaseActivity extends AppCompatActivity {
     }
 
     private void startQuestionair(){
-        Intent intent = new Intent(this, QuestionActivity.class);
+        Intent intent = new Intent(this, CQuestionActivity.class);
         startActivity(intent);
     }
 }

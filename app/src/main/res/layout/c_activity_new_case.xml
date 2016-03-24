@@ -8,78 +8,87 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.nykyrian_q.incidentresponse1.SignupActivity">
+    tools:context=".Cases.CNewCaseActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="@string/new_account"
-        android:id="@+id/newAccountLogo"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="NEW CASE"
+        android:id="@+id/textView"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"/>
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="textPersonName"
+        android:inputType="date"
         android:ems="10"
-        android:id="@+id/firstNameText"
-        android:layout_marginTop="30dp"
-        android:hint="First Name"
-        android:layout_below="@+id/newAccountLogo"
+        android:id="@+id/dateText"
+        android:layout_below="@+id/textView"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"/>
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="38dp"
+        android:hint="Enter Date"/>
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
         android:ems="10"
-        android:id="@+id/lastNameText"
-        android:layout_below="@+id/firstNameText"
-        android:layout_alignLeft="@+id/firstNameText"
-        android:layout_alignStart="@+id/firstNameText"
-        android:hint="LastName"/>
+        android:id="@+id/analystNameText"
+        android:layout_below="@+id/dateText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:hint="Enter Analyst Name"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mediaText"
+        android:layout_below="@+id/analystNameText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:hint="Media"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/supervisorNameText"
+        android:layout_below="@+id/mediaText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:hint="Supervisor Name"/>
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textEmailAddress"
         android:ems="10"
-        android:id="@+id/editText"
-        android:layout_below="@+id/lastNameText"
+        android:id="@+id/supervisorEmailText"
+        android:layout_below="@+id/supervisorNameText"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:hint="Email"/>
+        android:hint="Supervisor Email"/>
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="textPassword"
-        android:ems="10"
-        android:id="@+id/editText2"
-        android:layout_below="@+id/editText"
+        android:id="@+id/caseDescText"
+        android:layout_below="@+id/supervisorEmailText"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:hint="Password"/>
+        android:hint="Case Descrition"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/new_account"
-        android:id="@+id/freshAccountButton"
-        android:layout_below="@+id/editText2"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="91dp"/>
-
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/already_member"
-        android:id="@+id/backLogin"
-        android:layout_below="@+id/freshAccountButton"
+        android:text="Proceed to Questionnair"
+        android:id="@+id/questionButton"
+        android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"/>
+
 </RelativeLayout>

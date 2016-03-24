@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.nykyrian_q.incidentresponse1.CaseHomeActivity">
+    tools:context=".Cases.CCaseHomeActivity">
 
     <TextView
         android:layout_width="wrap_content"
@@ -38,6 +38,14 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_marginTop="34dp"/>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/c_lvCases"
+        android:layout_above="@+id/newCaseButton"
+        android:layout_alignRight="@+id/newCaseButton"
+        android:layout_alignEnd="@+id/newCaseButton"/>
 
 
 </RelativeLayout>

@@ -1,4 +1,4 @@
-package com.nykyrian_q.incidentresponse1;
+package edu.nsu.ir.Cases;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -7,7 +7,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-public class CaseAnalysisActivity extends AppCompatActivity {
+import edu.nsu.ir.R;
+
+public class CCaseAnalysisActivity extends AppCompatActivity {
 
     private Button mShareAnalysisButton;
     private Button mBacktoCasesButton;
@@ -16,16 +18,16 @@ public class CaseAnalysisActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_case_analysis);
+        setContentView(edu.nsu.ir.R.layout.c_activity_case_analysis);
 
         mShareAnalysisButton = (Button)findViewById(R.id.shareAnalysisButton);
-        mBacktoCasesButton = (Button)findViewById(R.id.backCasesButton);
-        mCaseViewButton = (Button)findViewById(R.id.caseDetailsViewButton);
+        mBacktoCasesButton = (Button)findViewById(edu.nsu.ir.R.id.backCasesButton);
+        mCaseViewButton = (Button)findViewById(edu.nsu.ir.R.id.caseDetailsViewButton);
 
         mShareAnalysisButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(CaseAnalysisActivity.this, "Share from here Or Maybe Save", Toast.LENGTH_SHORT).show();
+                Toast.makeText(CCaseAnalysisActivity.this, "Share from here Or Maybe Save", Toast.LENGTH_SHORT).show();
             }
         });
 
@@ -45,12 +47,12 @@ public class CaseAnalysisActivity extends AppCompatActivity {
         });
     }
     private void startCasesHome(){
-        Intent intent = new Intent(this, CaseHomeActivity.class);
+        Intent intent = new Intent(this, CCaseHomeActivity.class);
         startActivity(intent);
     }
 
     private void startCaseDetails(){
-        Intent intent = new Intent(this, CaseDetailsActivity.class);
+        Intent intent = new Intent(this, CCaseDetailsActivity.class);
         startActivity(intent);
     }
 }

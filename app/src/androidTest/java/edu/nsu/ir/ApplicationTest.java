@@ -1,4 +1,4 @@
-package com.nykyrian_q.incidentresponse1;
+package edu.nsu.ir;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
