@@ -18,7 +18,7 @@ public class CCaseHomeActivity extends AppCompatActivity {
 
     private ListView mCaseListView;
     private Button mNewCaseButton;
-    private Button mCurrentCaseButton;
+    //private Button mCurrentCaseButton;
     private CListCaseAdapter mCaseAdapter;
     private ArrayList<CCase>allCases;
 
@@ -39,12 +39,12 @@ public class CCaseHomeActivity extends AppCompatActivity {
             }
         });
 
-        mCurrentCaseButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startCaseDetails();
-            }
-        });
+//        mCurrentCaseButton.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                startCaseDetails();
+//            }
+//        });
 
         mCaseListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
@@ -62,7 +62,7 @@ public class CCaseHomeActivity extends AppCompatActivity {
         mCaseAdapter=new CListCaseAdapter(this,dummyCases());
         mCaseListView=(ListView)findViewById(R.id.c_lvCases);
         mNewCaseButton = (Button)findViewById(edu.nsu.ir.R.id.newCaseButton);
-        mCurrentCaseButton = (Button)findViewById(edu.nsu.ir.R.id.currentCaseButton);
+        //mCurrentCaseButton = (Button)findViewById(edu.nsu.ir.R.id.currentCaseButton);
 
     }
     private void startNewCase(){

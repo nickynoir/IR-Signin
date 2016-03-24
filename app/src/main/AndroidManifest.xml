@@ -10,7 +10,7 @@
         android:theme="@style/AppTheme">
         <activity android:name="edu.nsu.ir.MainActivity">
         </activity>
-        <activity android:name=".Layout.LSLoginActivity">
+        <activity android:name=".LoginSignin.LSLoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
@@ -18,12 +18,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Layout.LSSignupActivity"
-            android:parentActivityName=".Layout.LSLoginActivity">
+            android:name=".LoginSignin.LSSignupActivity"
+            android:parentActivityName=".LoginSignin.LSLoginActivity">
         </activity>
         <activity
             android:name=".Cases.CCaseHomeActivity"
-            android:parentActivityName=".Layout.LSLoginActivity">
+            android:parentActivityName=".LoginSignin.LSLoginActivity">
         </activity>
         <activity
             android:name=".Cases.CNewCaseActivity"

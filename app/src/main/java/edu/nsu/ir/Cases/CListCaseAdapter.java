@@ -33,6 +33,7 @@ public class CListCaseAdapter extends BaseAdapter
 
         @Override
         public Object getItem(int position) {
+
             return allCases.get(position);
         }
 

@@ -1,15 +1,22 @@
-package edu.nsu.ir.Layout;
+package edu.nsu.ir.LoginSignin;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
+
+import org.w3c.dom.Text;
 
 public class LSSignupActivity extends AppCompatActivity {
     private Button mNewAccount;
     private Button mLogin;
+    private EditText mFistName, mLastName,mUserName, mEmail, mPassword, mCity, mState, mCompany, mExperience, mContact;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
