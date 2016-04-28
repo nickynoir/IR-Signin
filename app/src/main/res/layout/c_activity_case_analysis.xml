@@ -8,48 +8,20 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg_nsu"
     tools:context=".Cases.CCaseAnalysisActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="CASE ANALYSIS"
+        android:text="CASE STEPS"
         android:id="@+id/textView3"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="INSTRUCTION 1"
-        android:id="@+id/textView4"
-        android:layout_below="@+id/textView3"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="35dp"/>
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="INSTRUCTION 2"
-        android:id="@+id/textView5"
-        android:layout_below="@+id/textView4"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="70dp"/>
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="INSTRUCTION 3"
-        android:id="@+id/textView6"
-        android:layout_centerVertical="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"/>
-
     <Button
-        style="?android:attr/buttonStyleSmall"
+        style="@style/buttonColors"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="SHARE"
@@ -59,7 +31,7 @@
         android:layout_alignParentStart="true"/>
 
     <Button
-        style="?android:attr/buttonStyleSmall"
+        style="@style/buttonColors"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Back to Cases"
@@ -69,7 +41,7 @@
         android:layout_alignParentLeft="true"/>
 
     <Button
-        style="?android:attr/buttonStyleSmall"
+        style="@style/buttonColors"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="VIEW CASE DETAILS"
@@ -77,4 +49,13 @@
         android:layout_alignParentStart="true"
         android:layout_above="@+id/shareAnalysisButton"
         android:layout_alignParentLeft="true"/>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/stepsList"
+        android:layout_below="@+id/textView3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+
 </RelativeLayout>

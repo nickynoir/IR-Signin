@@ -13,4 +13,12 @@ public class AppURLS {
     public static String COMPANY_NAME_KEY = "";
     public static String EXPERIENCE_KEY = "";
     public static String CONTACT_KEY = "";
+
+
+    private static String CASE_NAME_KEY = "";
+    private static String CASE_STATUS_KEY = "dummy";
+    private static String CASE_ID_KEY = "dummy";
+    private static String COURT_NUMBER_KEY = "dummy";
+    private static String EVIDENCE_KEY = "dummy";
+    private static String OS_TYPE_KEY = "dummy";
 }

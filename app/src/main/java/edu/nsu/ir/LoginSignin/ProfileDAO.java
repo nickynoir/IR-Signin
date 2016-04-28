@@ -1,28 +1,25 @@
-package edu.nsu.ir.Cases;
+package edu.nsu.ir.LoginSignin;
 
-import android.media.Image;
 import android.os.Parcel;
 import android.os.Parcelable;
-
-import java.io.Serializable;
 
 /**
  * Created by admin on 3/3/2016.
  */
-public class ProfileDAO implements Parcelable
-{
+public class ProfileDAO implements Parcelable {
 
     private static final long serialVersion = 1L;
-    private String fname= "dummy";
+    private String fname = "dummy";
     private String lname = "dummy";
-    private String age= "dummy";
-    private  String local= "dummy";
-    private String email= "dummy";
-    private String experience= "dummy";
-    private String item_subject= "dummy";
-    private String item_content= "dummy";
-    private String image_path= "dummy";
-    private String uname= "dummy";
+    private String age = "dummy";
+    private String local = "dummy";
+    private String email = "dummy";
+    private String password = "dummy";
+    private String experience = "dummy";
+    private String item_subject = "dummy";
+    private String item_content = "dummy";
+    private String image_path = "dummy";
+    private String uname = "dummy";
     private int threadID;
     private ProfileDAO userprofile;
 
@@ -32,31 +29,36 @@ public class ProfileDAO implements Parcelable
         this.item_content = item_content;
         this.image_path = image_path;
     }
-    public ProfileDAO(String email){
+
+    public ProfileDAO(String email) {
         this.email = email;
     }
-    public ProfileDAO(ProfileDAO userprofile){
-        this.userprofile=  userprofile;
+
+    public ProfileDAO(ProfileDAO userprofile) {
+        this.userprofile = userprofile;
     }
-    public ProfileDAO(String item_subject, String uname, String image_path,int threadID ) {
+
+    public ProfileDAO(String item_subject, String uname, String image_path, int threadID) {
         this.item_subject = item_subject;
         this.item_content = uname;
         this.image_path = image_path;
         this.threadID = threadID;
     }
 
-    public ProfileDAO(String fname, String lname, String age, String local, String email, String experience) {
+    public ProfileDAO(String fname, String password, String lname, String age, String local, String email, String experience) {
         this.fname = fname;
         this.lname = lname;
         this.age = age;
         this.local = local;
         this.email = email;
+        this.password = password;
         this.experience = experience;
     }
 
     protected ProfileDAO(Parcel in) {
         fname = in.readString();
         lname = in.readString();
+        password = in.readString();
         age = in.readString();
         local = in.readString();
         email = in.readString();
@@ -81,14 +83,15 @@ public class ProfileDAO implements Parcelable
         }
     };
 
-    public void addThreadInfo(String uname, int threadID){
-        this.uname=uname;
+    public void addThreadInfo(String uname, int threadID) {
+        this.uname = uname;
         this.threadID = threadID;
     }
 
     public String getItem_subject() {
         return item_subject;
     }
+
     public String getItem_uname() {
         return uname;
     }
@@ -161,12 +164,20 @@ public class ProfileDAO implements Parcelable
         this.threadID = threadID;
     }
 
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
 
     @Override
     public String toString() {
         return "ProfileDAO{" +
                 "fname='" + fname + '\'' +
-                "fname='" + lname + '\'' +
+                "lname='" + lname + '\'' +
                 ", age='" + age + '\'' +
                 ", local='" + local + '\'' +
                 ", email='" + email + '\'' +

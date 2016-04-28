@@ -8,28 +8,28 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg_nsu"
     tools:context=".Cases.CNewCaseActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="NEW CASE"
-        android:id="@+id/textView"
+        android:text="@string/new_case_label"
+        android:id="@+id/newCaseLabel"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"/>
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="date"
-        android:ems="10"
         android:id="@+id/dateText"
-        android:layout_below="@+id/textView"
+        android:layout_below="@+id/newCaseLabel"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_marginTop="38dp"
-        android:hint="Enter Date"/>
+        android:hint="Enter Date"
+        />
 
     <EditText
         android:layout_width="match_parent"
@@ -45,39 +45,39 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/mediaText"
-        android:layout_below="@+id/analystNameText"
+        android:id="@+id/evidenceText"
+        android:layout_below="@+id/caseDescText"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:hint="Media"/>
+        android:hint="Catalog Evidence Recieved"/>
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
         android:ems="10"
-        android:id="@+id/supervisorNameText"
-        android:layout_below="@+id/mediaText"
+        android:id="@+id/etCaseNumber"
+        android:layout_below="@+id/analystNameText"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:hint="Supervisor Name"/>
+        android:hint="Assigned Case Number (optional)"/>
 
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:inputType="textEmailAddress"
-        android:ems="10"
-        android:id="@+id/supervisorEmailText"
-        android:layout_below="@+id/supervisorNameText"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:hint="Supervisor Email"/>
+    <!--<EditText-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:inputType="textEmailAddress"-->
+        <!--android:ems="10"-->
+        <!--android:id="@+id/supervisorEmailText"-->
+        <!--android:hint="Supervisor Email"-->
+        <!--android:layout_below="@+id/supervisorNameText"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentStart="true"/>-->
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/caseDescText"
-        android:layout_below="@+id/supervisorEmailText"
+        android:layout_below="@+id/etCaseNumber"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:hint="Case Descrition"/>
@@ -85,10 +85,13 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Proceed to Questionnair"
+        style="@style/buttonColors"
+        android:text="@string/question_text"
         android:id="@+id/questionButton"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"/>
 
+
 </RelativeLayout>
+

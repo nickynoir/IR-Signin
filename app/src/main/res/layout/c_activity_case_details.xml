@@ -8,6 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg_nsu"
     tools:context=".Cases.CCaseDetailsActivity">
 
     <TextView
@@ -98,7 +99,8 @@
         android:editable="true"/>
 
     <Button
-        android:layout_width="wrap_content"
+        style="@style/buttonColors"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="SHARE"
         android:id="@+id/shareDetailsButton"
@@ -106,6 +108,16 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_marginTop="66dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Steps"
+        style="@style/buttonColors"
+        android:id="@+id/btnViewSteps"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
 
 
 </RelativeLayout>

@@ -41,16 +41,18 @@ public class LSSignupActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(edu.nsu.ir.R.layout.ls_activity_signup);
         init();
+        // Create new acount
         mNewAccount.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 cCase.setName(mFistName.getText().toString());
                 Toast.makeText(LSSignupActivity.this, "Account Successfully Created", Toast.LENGTH_SHORT).show();
+                doReg();
                 Intent intent = new Intent(LSSignupActivity.this, LSLoginActivity.class);
                 startActivity(intent);
             }
         });
-
+        // Back to login
         mLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -61,7 +63,6 @@ public class LSSignupActivity extends AppCompatActivity {
     }
     private void init(){
         cCase = new CCase();
-
         mContext=this;
         mNewAccount = (Button)findViewById(edu.nsu.ir.R.id.freshAccountButton);
         mLogin = (Button)findViewById(edu.nsu.ir.R.id.backLogin);

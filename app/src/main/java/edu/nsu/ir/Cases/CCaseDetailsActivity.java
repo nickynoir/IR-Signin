@@ -15,6 +15,7 @@ public class CCaseDetailsActivity extends AppCompatActivity {
     private RadioGroup mStatusGroup;
     private RadioButton mActiveButton, mClosedButton;
     private  CCase mCase;
+    private String currentStatus;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,11 +25,22 @@ public class CCaseDetailsActivity extends AppCompatActivity {
         if (mCase!=null){
 
         }
-        mShareButton = (Button)findViewById(edu.nsu.ir.R.id.shareDetailsButton);
-        mStatusGroup = (RadioGroup)findViewById(edu.nsu.ir.R.id.caseStatusRadioGroup);
-        mActiveButton = (RadioButton)findViewById(edu.nsu.ir.R.id.activeRadioButton);
-        mClosedButton = (RadioButton)findViewById(edu.nsu.ir.R.id.closedRadioButton);
+        init();
+ //
+//        Intent intent = new Intent(this, CCaseHomeActivity.//class);
+//        intent.putExtra("radiobuttontext", currentS//t//atus);
+//
+//        mStatusGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedCha//ngeListener() {
+//            @Override
+//            public void onCheckedChanged(RadioGroup group, i//nt checkedId) {
+//                if (mActiveButt//on.isChecked())
+//                    currentStatus = mActiveButton.getTex//t().toString();
+//                else
+//                    currentStatus = mClosedButton.getTex//t().toString()//;
+//            }
+//        });
 
+        // Start Share View
         mShareButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -36,11 +48,25 @@ public class CCaseDetailsActivity extends AppCompatActivity {
             }
         });
     }
+
+    private void init() {
+        mShareButton = (Button)findViewById(edu.nsu.ir.R.id.shareDetailsButton);
+        mStatusGroup = (RadioGroup)findViewById(edu.nsu.ir.R.id.caseStatusRadioGroup);
+        mActiveButton = (RadioButton)findViewById(edu.nsu.ir.R.id.activeRadioButton);
+        mClosedButton = (RadioButton)findViewById(edu.nsu.ir.R.id.closedRadioButton);
+    }
+
     private void startShareView(){
         Intent intent = new Intent(this, CShareCaseActivity.class);
         startActivity(intent);
     }
 
+
+
+    /**
+     * Check if radio button is checked
+     * @param view
+     */
     public void onRadioButtonClicked(View view) {
         boolean checked = ((RadioButton) view).isChecked();
 
@@ -53,5 +79,8 @@ public class CCaseDetailsActivity extends AppCompatActivity {
                 if (checked)
                     Toast.makeText(CCaseDetailsActivity.this, "Case is Closed", Toast.LENGTH_SHORT).show();
         }
+
+//        Intent intent = new Intent(this, CCaseHomeActivity.class);
+//        intent.putExtra()
     }
 }

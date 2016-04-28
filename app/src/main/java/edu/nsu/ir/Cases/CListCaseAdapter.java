@@ -42,15 +42,22 @@ public class CListCaseAdapter extends BaseAdapter
             return 0;
         }
 
+        /**
+         * Sets the case name text and status
+         * @param position
+         * @param convertView
+         * @param parent
+         * @return
+         */
         @Override
         public View getView(int position, View convertView, ViewGroup parent) {
             mCase=allCases.get(position);
 
             if (mInflater==null){
                 mInflater= (LayoutInflater) mContext.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-
-
-            }if(convertView==null){
+            }
+            // Set Status
+            if(convertView==null){
                 convertView=mInflater.inflate(R.layout.c_each_case,null);
                 Log.d("INSIDE CONVERTVIEW","INSIDE CONVERTVIEW");
                 TextView tvName= (TextView) convertView.findViewById(R.id.c_tvCaseName);
@@ -59,11 +66,10 @@ public class CListCaseAdapter extends BaseAdapter
                 tvName.setText(mCase.getName());
 
                 String status="Closed";
+
                 if(mCase.isStatus()){status="Active";}
                 tvStatus.setText(status);
             }
-
-
             return convertView;
         }
     }

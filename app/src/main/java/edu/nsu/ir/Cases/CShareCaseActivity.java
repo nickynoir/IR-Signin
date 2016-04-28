@@ -17,16 +17,15 @@ public class CShareCaseActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(edu.nsu.ir.R.layout.c_activity_share_case);
 
-        mAttachButton = (Button)findViewById(edu.nsu.ir.R.id.attachButton);
-        mSendButton = (Button)findViewById(edu.nsu.ir.R.id.sendButton);
-
+        init();
+        // Add attachments
         mAttachButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Toast.makeText(CShareCaseActivity.this, "Adding Attachments", Toast.LENGTH_SHORT).show();
             }
         });
-
+        //Send email
         mSendButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -35,6 +34,12 @@ public class CShareCaseActivity extends AppCompatActivity {
             }
         });
     }
+
+    private void init() {
+        mAttachButton = (Button)findViewById(edu.nsu.ir.R.id.attachButton);
+        mSendButton = (Button)findViewById(edu.nsu.ir.R.id.sendButton);
+    }
+
     private void startCaseHome(){
         Intent intent = new Intent(this, CCaseHomeActivity.class);
         startActivity(intent);

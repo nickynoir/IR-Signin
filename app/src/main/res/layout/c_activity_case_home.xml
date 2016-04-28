@@ -8,13 +8,14 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg_nsu"
     tools:context=".Cases.CCaseHomeActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Cases"
+        android:text="@string/case_label"
         android:id="@+id/casesLogoText"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"/>
@@ -22,8 +23,11 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Add New Case"
+        style="@style/buttonColors"
+        android:text="@string/new_case_text"
         android:id="@+id/newCaseButton"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"/>

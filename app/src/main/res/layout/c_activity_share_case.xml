@@ -8,6 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg_nsu"
     tools:context=".Cases.CShareCaseActivity">
 
     <TextView
@@ -53,7 +54,9 @@
         android:hint="Message (Optional)"/>
 
     <Button
-        style="?android:attr/buttonStyleSmall"
+        style="@style/buttonColors"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Add Attachment"
@@ -64,6 +67,7 @@
         android:layout_alignParentStart="true"/>
 
     <Button
+        style="@style/buttonColors"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Send"
