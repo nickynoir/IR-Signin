@@ -31,7 +31,10 @@ public class Home extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.home);
         init();
+        Bundle data = getIntent().getExtras();
 
+        //Gets User profile and the message thread chosen
+        userProfile = (ProfileDAO) data.getParcelable("userProfile");
          b1 = (ImageButton) findViewById(R.id.profileBtn);
       //  b2 = (ImageButton) findViewById(R.id.b2);
        b3 = (ImageButton) findViewById(R.id.imageButton4);
@@ -111,10 +114,7 @@ public class Home extends AppCompatActivity {
 
 
 private void init() {
-    Bundle data = getIntent().getExtras();
 
-    //Gets User profile and the message thread chosen
-    userProfile = (ProfileDAO) data.getParcelable("userProfile");
     }
 
 //   @Override

@@ -4,7 +4,7 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="74694204277333" >
+    timestamp="77018012595753" >
 
     <task
         name="javac"
@@ -19,37 +19,13 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
-        type="DEX" />
-
-    <build timestamp="74634235243061" >
+    <build
+        timestamp="76968703318123"
+        verifier="COMPATIBLE" >
         <artifact
-            location="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\outputs\apk\app-debug.apk"
-            type="MAIN" />
+            location="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\builds\debug\76968703318123\classes.dex"
+            type="RELOAD_DEX" />
     </build>
-    <build timestamp="74694204277333" >
-        <artifact
-            location="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
-            type="DEX" />
-    </build>
+    <build timestamp="77018012595753" />
 
 </instant-run>

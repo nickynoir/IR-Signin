@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/logancarpenter/Dropbox/IncidentResponse1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
-        "source": "/Users/logancarpenter/Dropbox/IncidentResponse1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/logancarpenter/Dropbox/IncidentResponse1/C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
-        "source": "/Users/logancarpenter/Dropbox/IncidentResponse1/C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

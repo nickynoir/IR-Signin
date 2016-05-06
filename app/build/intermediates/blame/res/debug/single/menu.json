@@ -1,26 +1,14 @@
 [
     {
-        "merged": "/Users/logancarpenter/Dropbox/IncidentResponse1/app/build/intermediates/res/merged/debug/menu/detail.xml",
-        "source": "/Users/logancarpenter/Dropbox/IncidentResponse1/app/src/main/res/menu/detail.xml"
+        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail.xml",
+        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\menu\\detail.xml"
     },
     {
-        "merged": "/Users/logancarpenter/Dropbox/IncidentResponse1/C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail.xml",
-        "source": "/Users/logancarpenter/Dropbox/IncidentResponse1/C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\menu\\detail.xml"
+        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\menu\\home.xml"
     },
     {
-        "merged": "/Users/logancarpenter/Dropbox/IncidentResponse1/app/build/intermediates/res/merged/debug/menu/home.xml",
-        "source": "/Users/logancarpenter/Dropbox/IncidentResponse1/app/src/main/res/menu/home.xml"
-    },
-    {
-        "merged": "/Users/logancarpenter/Dropbox/IncidentResponse1/C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
-        "source": "/Users/logancarpenter/Dropbox/IncidentResponse1/C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\menu\\home.xml"
-    },
-    {
-        "merged": "/Users/logancarpenter/Dropbox/IncidentResponse1/C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
-        "source": "/Users/logancarpenter/Dropbox/IncidentResponse1/C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
-    },
-    {
-        "merged": "/Users/logancarpenter/Dropbox/IncidentResponse1/app/build/intermediates/res/merged/debug/menu/activity_home_drawer.xml",
-        "source": "/Users/logancarpenter/Dropbox/IncidentResponse1/app/src/main/res/menu/activity_home_drawer.xml"
+        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
     }
 ]

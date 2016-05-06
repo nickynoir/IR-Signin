@@ -1,0 +1,6 @@
+CHANGED,C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\edu\nsu\ir\activities\Home$4.class
+CHANGED,C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\edu\nsu\ir\activities\Home$1.class
+CHANGED,C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\edu\nsu\ir\activities\Home$3.class
+CHANGED,C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\edu\nsu\ir\activities\Home$2.class
+CHANGED,C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\edu\nsu\ir\activities\Home$5.class
+CHANGED,C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\edu\nsu\ir\activities\Home.class
