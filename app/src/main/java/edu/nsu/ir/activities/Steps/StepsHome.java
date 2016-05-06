@@ -8,10 +8,14 @@ import android.widget.Button;
 
 import edu.nsu.ir.activities.cases.CCaseDetailsActivity;
 import edu.nsu.ir.R;
+import edu.nsu.ir.model.CaseDAO;
+import edu.nsu.ir.model.ProfileDAO;
 
 public class StepsHome extends AppCompatActivity {
 
     private Button btnBackCD, btnStart, btnTools, btnResources, btnWIE, btnUMIE;
+    private ProfileDAO userProfile;
+    private CaseDAO Case;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,6 +23,7 @@ public class StepsHome extends AppCompatActivity {
         setContentView(R.layout.activity_steps_home);
 
         init();
+
 
         btnBackCD.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -57,6 +62,11 @@ public class StepsHome extends AppCompatActivity {
                 startUMView();
             }
         });
+
+        Bundle data = getIntent().getExtras();
+        //Gets User profile and the message thread chosen
+        userProfile = (ProfileDAO) data.getParcelable("userProfile");
+        Case = (CaseDAO) data.getParcelable("case");
     }
 
     private void startUMView() {

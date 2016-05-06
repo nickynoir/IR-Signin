@@ -1,0 +1,5 @@
+CHANGED,D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\nsu\ir\activities\cases\CNewCaseActivity$2$override.class
+CHANGED,D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\nsu\ir\activities\cases\CNewCaseActivity$4$override.class
+CHANGED,D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\nsu\ir\activities\cases\CNewCaseActivity$3$override.class
+CHANGED,D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\nsu\ir\activities\cases\CNewCaseActivity$override.class

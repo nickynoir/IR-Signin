@@ -174,7 +174,7 @@ public class CNewCaseActivity extends AppCompatActivity {
 
         //Adding the string request to the queue
         RequestQueue requestQueue = Volley.newRequestQueue(this);
-//        requestQueue.add(stringRequest);
+        requestQueue.add(stringRequest);
 
     }
 }

@@ -1,32 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64"
+    abi="x86_64,x86"
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="77603856363061" >
+    timestamp="78553780421135" >
 
     <task
         name="javac"
-        duration="4630" />
+        duration="672" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1576" />
+        duration="62" />
     <task
         name="verifier"
-        duration="732" />
+        duration="13" />
 
     <artifact
-        location="D:\Nyky\AppDev\IR-Signin\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
 
     <build timestamp="77603856363061" >
         <artifact
             location="D:\Nyky\AppDev\IR-Signin\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="78553780421135" >
+        <artifact
+            location="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

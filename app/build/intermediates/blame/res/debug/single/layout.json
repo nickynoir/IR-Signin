@@ -76,24 +76,24 @@
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_activity_pedit_profile.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\p_activity_pedit_profile.xml"
-    },
-    {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_home.xml",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_activity_pedit_profile.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\p_activity_pedit_profile.xml"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
