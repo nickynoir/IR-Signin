@@ -81,6 +81,8 @@ public class CNewCaseActivity extends AppCompatActivity {
 
     private void startSteps(){
         doReg();
+        Intent intent = new Intent(this, StepsHome.class);
+        startActivity(intent);
 
     }
 

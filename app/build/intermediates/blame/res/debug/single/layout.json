@@ -1,398 +1,398 @@
 [
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_user_profile.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\content_user_profile.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\m_thread_item.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\m_thread_item.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\list_item.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_step_resources_view.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_step_resources_view.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_step_umview.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_step_umview.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_learnig_home.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_learnig_home.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_home.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\nav_header_home.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_sign_up.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\content_sign_up.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_individual_group.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\list_individual_group.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_activity_share_case.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\c_activity_share_case.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_step_windows_view.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_step_windows_view.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_user.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\search_user.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_trends.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_list_trends.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_thread_item.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\p_thread_item.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_home.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\content_home.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_group.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_learnig_home.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_learnig_home.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_step_umview.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_step_umview.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_post.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\content_post.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_user_profile.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\content_user_profile.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_activity_case_details.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\c_activity_case_details.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inbox.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\inbox.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_activity_pedit_profile.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\p_activity_pedit_profile.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_action.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_home.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\app_bar_home.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_each_case.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\c_each_case.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_time.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\home.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_individual_trend.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\list_individual_trend.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_activity_view_profile.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\p_activity_view_profile.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inbox_msg.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\inbox_msg.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_individual_group.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\list_individual_group.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_new_message.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\p_new_message.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_activity_share_case.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\c_activity_share_case.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_user.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\search_user.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_activity_question.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\c_activity_question.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_activity_case_home.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\c_activity_case_home.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_list_trends.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\content_list_trends.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_activity_case_details.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\c_activity_case_details.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detailed_post.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_detailed_post.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_activity_new_case.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\c_activity_new_case.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_step_windows_view.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_step_windows_view.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ls_activity_signup.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\ls_activity_signup.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\thread.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\thread.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_group.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\add_group.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_step_tools_view.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_step_tools_view.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_steps_home.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_steps_home.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_activity_step_view.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\c_activity_step_view.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_detailed_post.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\content_detailed_post.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_profile.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_user_profile.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\home.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detailed_post.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_detailed_post.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_comment.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\add_comment.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_lines.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_activity_new_case.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\c_activity_new_case.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\m_thread_item.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\m_thread_item.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_activity_view_profile.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\p_activity_view_profile.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_group.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\add_group.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_eachcase.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\c_eachcase.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_view.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\list_item.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_new_message.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\p_new_message.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_step_tools_view.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_step_tools_view.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_activity_case_home.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\c_activity_case_home.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_sign_up.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\content_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inbox_msg.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\inbox_msg.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_list_trends.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\content_list_trends.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_group.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_media.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_activity_step_view.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\c_activity_step_view.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_steps_home.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_steps_home.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_post.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\content_post.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_comment.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\add_comment.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ls_activity_signup.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\ls_activity_signup.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_detailed_post.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\content_detailed_post.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_activity_case_analysis.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\c_activity_case_analysis.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_profile.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_user_profile.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_step_layout.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\c_step_layout.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_thread_item.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\p_thread_item.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_trends.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_list_trends.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_step_layout.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\c_step_layout.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\thread.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\thread.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inbox.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\inbox.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_step_resources_view.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_step_resources_view.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_each_case.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\c_each_case.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_activity_pedit_profile.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\p_activity_pedit_profile.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ls_activity_login.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\ls_activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_home.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_activity_question.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\c_activity_question.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_post.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\activity_post.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_home.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_individual_trend.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\list_individual_trend.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ls_activity_login.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\ls_activity_login.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_activity_case_analysis.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\c_activity_case_analysis.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_home.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\content_home.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\c_eachcase.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\layout\\c_eachcase.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_post.xml",
-        "source": "C:\\Users\\nNyky\\Dropbox\\IncidentResponse1\\app\\src\\main\\res\\layout\\activity_post.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_action.xml"
     }
 ]

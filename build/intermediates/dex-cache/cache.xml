@@ -2,11 +2,46 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jar="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_7a10c068ccf211749fc0ecbd01467e091c9699a5\classes.dex" />
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_0b333ddd19d74c7d9522a6cb3b0022734966e4c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nNyky\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_4efa3ec6aff6fedcdd5fae775d476004aefb66c3\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_ece9ea973186a905729db8f7a150fd827584019f\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="043ea65bac02e6595a63f729b772f73ee855a80b">
+        <dex dex="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ab0015632d15091d587152668b5aa81e0a5b0c22\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nyky\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_d8eb2066279f4176ddec01061a2cb4f9ad5c4c16\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_fe5c8ac76fc188ed82d83444b98cffbd26ce335a\classes.dex" />
     </item>
     <item
         jar="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
@@ -14,6 +49,62 @@
         revision="23.0.2"
         sha1="673d77a5bbddd766037f088e775df525c46407f0">
         <dex dex="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_2506924e6b81b3dc76bd9afe847f8f61cd73b848\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="802181e6c145071225ccb4356458d66b8f902a29">
+        <dex dex="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9b262d2117b21adaa71a7237cbd0b429db848f1b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nyky\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_b13fc6fac5240b79db9c9f779bed1ba729c6c5dc\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_a4fb9fcc00f5778a92f4e9ab5322cb45c62ef33e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nyky\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-2015.05.28_788042e3685b43bc5440b3b2c6fcd366b3ea0f8d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_7a10c068ccf211749fc0ecbd01467e091c9699a5\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_8f922a83dc8176f5f39153ca1e43391dc29e2d4f\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_0e85c8a9c1f2ccdffdb3e22ba97bce77b70ecd09\classes.dex" />
+    </item>
+    <item
+        jar="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\Nyky\AppDev\IR-Signin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_10b8c690e0f29885584cd5b7203a819573c20d50\classes.dex" />
     </item>
 
 </items>

@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
+    abi="x86_64"
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="77018012595753" >
+    timestamp="77603856363061" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="4630" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1576" />
     <task
         name="verifier"
-        duration="0" />
+        duration="732" />
 
-    <build
-        timestamp="76968703318123"
-        verifier="COMPATIBLE" >
+    <artifact
+        location="D:\Nyky\AppDev\IR-Signin\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="77603856363061" >
         <artifact
-            location="C:\Users\nNyky\Dropbox\IncidentResponse1\app\build\intermediates\builds\debug\76968703318123\classes.dex"
-            type="RELOAD_DEX" />
+            location="D:\Nyky\AppDev\IR-Signin\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
     </build>
-    <build timestamp="77018012595753" />
 
 </instant-run>
