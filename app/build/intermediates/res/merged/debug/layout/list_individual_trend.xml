@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+
+        <com.android.volley.toolbox.NetworkImageView
+            android:layout_width="80dp"
+            android:src="@drawable/ic_menu_gallery"
+            android:layout_height="80dp"
+            android:id="@+id/imgListPost"
+            android:layout_alignParentTop="true" />
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Large Text"
+            android:id="@+id/tvTitleListGroup"
+            android:textSize="30sp"
+            android:layout_alignParentTop="true"
+            android:layout_alignBottom="@+id/imgListPost"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_toEndOf="@+id/imgListPost"
+            android:layout_toRightOf="@+id/imgListPost" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/tvDetailsListGroup"
+        android:textSize="25sp"
+        android:maxLines="10"
+        android:lines="3"
+        android:gravity="center_horizontal"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/tvTitleListGroup"
+        android:layout_alignEnd="@+id/tvTitleListGroup"
+        android:layout_below="@+id/tvDateListGroup" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/tvDateListGroup"
+        android:layout_below="@+id/tvTitleListGroup"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Small Text"
+        android:id="@+id/tvAuthorPost"
+        android:layout_below="@+id/tvDetailsListGroup"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

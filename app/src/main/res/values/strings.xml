@@ -15,6 +15,7 @@
     <string name="question_text">Proceed to Questionnaire</string>
     <string name="prelim_questions">Preliminary Questions</string>
     <string name="preperation_text">Before You Start Have all important contact information (law enforcement, organizational contacts) -Legal tools (e.g. evidence bags, chain of evidence forms, etc) Tools -Forensic workastation and/or backup devices -Laptops -Spare workstations, servers, and networking equipment, or the virtualized equivalents -Blank removable media Portable printer Packet sniffers and protocol analyzers Digital forensic software Removable media Evidence gathering accessories Clean OS images Resources Port lists Documentation Network diagrams and lists of critical assets Current baselines Cryptographic hashes</string>
+    <string name="preference_file_key">edu.nsu.ir.Steps.PREFERENCE_FILE_KEY</string>
     <string-array name="machine_state">
         <item>ON</item>
         <item>OFF</item>
@@ -60,5 +61,56 @@
         <item>Other</item>
     </string-array>
 
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="create_post">Ask a question</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_register_new">Are new to this? Register here!!!!</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_church">Church</string>
+    <string name="hint_password">Password</string>
+    <string name="post_title">Title</string>
+    <string name="post_details">Details</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_post">PostActivity</string>
+    <string name="title_activity_list_trends">ListTrendsActivity</string>
+    <string name="title_activity_user_profile">UserProfileActivity</string>
+    <string name="title_activity_comment">CommentActivity</string>
+
+    <string name="title_activity_splash">Testimony</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <!--comment -->
+    <string name="hint_add_comment_title">Title</string>
+    <string name="hint_add_comment_Details">Details</string>
+    <string name="action_add_comment_btn">Add Comment.</string>
+
+    <!--group -->
+    <string name="hint_add_group_title">Title</string>
+    <string name="hint_add_group_Desc">Description</string>
+    <string name="action_add_group_btn">Create Group.</string>
+
+
+    <!--userprofile-->
+    <string name="action_update_user_profile">Update Profile</string>
+    <string name="for_all">Choose a group</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 
 </resources>
+

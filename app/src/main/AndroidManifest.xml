@@ -2,8 +2,19 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="edu.nsu.ir">
 
-    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -12,57 +23,74 @@
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
         </activity>
-        <activity android:name=".LoginSignin.LSLoginActivity">
-
+        <activity android:name=".activities.profile.LSLoginActivity">
             <!-- put intent filter  back here -->
-             <intent-filter>
-             <action android:name="android.intent.action.MAIN"/>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.profile.LSSignupActivity"
+            android:parentActivityName=".activities.profile.LSLoginActivity">
+        </activity>
+        <activity
+            android:name=".activities.cases.CCaseHomeActivity"
+            android:parentActivityName=".activities.profile.LSLoginActivity">
+        </activity>
+        <activity
+            android:name=".activities.cases.CNewCaseActivity"
+            android:parentActivityName=".activities.cases.CCaseHomeActivity">
+        </activity>
+        <activity
+            android:name=".activities.cases.CQuestionActivity"
+            android:parentActivityName=".activities.cases.CNewCaseActivity">
+        </activity>
+        <activity
+            android:name=".activities.cases.CCaseAnalysisActivity"
+            android:parentActivityName=".activities.cases.CCaseAnalysisActivity">
+        </activity>
+        <activity android:name=".activities.Home">
+
+        </activity>
+        <activity android:name=".activities.profile.PEditProfileActivity"/>
+        <activity android:name=".activities.profile.PViewInboxActivity"/>
+        <activity android:name=".activities.SendMsg"/>
+        <activity android:name=".activities.profile.PViewProfileActivity"/>
+        <activity android:name=".activities.profile.MessageThread"/>
+        <activity
+            android:name=".activities.cases.CShareCaseActivity"
+            android:parentActivityName=".activities.cases.CCaseHomeActivity">
+        </activity>
+        <activity
+            android:name=".activities.cases.CCaseDetailsActivity"
+            android:parentActivityName=".activities.cases.CCaseHomeActivity">
+        </activity>
+        <activity
+            android:name=".activities.Steps.StepStart"
+            android:parentActivityName=".activities.cases.CCaseAnalysisActivity">
+        </activity>
+        <activity android:name=".activities.Steps.StepToolsView">
+        </activity>
+        <activity android:name=".activities.Steps.StepResourcesView">
+        </activity>
+        <activity android:name=".activities.Steps.StepWindowsView">
+
+        </activity>
+        <activity android:name=".activities.Steps.StepUMView">
+        </activity>
+        <activity android:name=".activities.Steps.StepsHome">
+        </activity>
+        <activity android:name=".activities.LearningHome">
 
 
-             <category android:name="android.intent.category.LAUNCHER"/>
-             </intent-filter>
         </activity>
-        <activity
-            android:name=".LoginSignin.LSSignupActivity"
-            android:parentActivityName=".LoginSignin.LSLoginActivity">
-        </activity>
-        <activity
-            android:name=".Cases.CCaseHomeActivity"
-            android:parentActivityName=".LoginSignin.LSLoginActivity">
-        </activity>
-        <activity
-            android:name=".Cases.CNewCaseActivity"
-            android:parentActivityName=".Cases.CCaseHomeActivity">
-        </activity>
-        <activity
-            android:name=".Cases.CQuestionActivity"
-            android:parentActivityName=".Cases.CNewCaseActivity">
+        <activity android:name=".activities.forum.PostActivity">
 
         </activity>
-        <activity
-            android:name=".Cases.CCaseAnalysisActivity"
-            android:parentActivityName=".Cases.CCaseAnalysisActivity">
-            <!--<intent-filter>-->
-                <!--<action android:name="android.intent.action.MAIN"/>-->
+        <activity android:name=".activities.forum.DetailedPostActivity"/>
+        <activity android:name=".activities.forum.ListPostActivity">
 
-                <!--<category android:name="android.intent.category.LAUNCHER"/>-->
-            <!--</intent-filter>-->
-        </activity>
-        <activity
-            android:name=".Cases.CShareCaseActivity"
-            android:parentActivityName=".Cases.CCaseHomeActivity">
-        </activity>
-        <activity
-            android:name=".Cases.CCaseDetailsActivity"
-            android:parentActivityName=".Cases.CCaseHomeActivity">
-        </activity>
-        <activity android:name=".Steps.CStepView"
-            android:parentActivityName=".Cases.CCaseAnalysisActivity">
-            <!--<intent-filter>-->
-                <!--<action android:name="android.intent.action.MAIN"/>-->
-
-                <!--<category android:name="android.intent.category.LAUNCHER"/>-->
-            <!--</intent-filter>-->
         </activity>
     </application>
 

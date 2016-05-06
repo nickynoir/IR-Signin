@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1" android:background="@drawable/bg_nsu">
+
+
+    <LinearLayout
+        android:layout_width="205dp"
+        android:layout_height="175dp"
+        android:padding="8dp"
+        android:weightSum="1"
+        android:id="@+id/topProfile"
+        android:orientation="horizontal"
+        >
+
+
+
+       <!-- <ImageView
+            android:layout_width="88dp"
+            android:layout_height="88dp"
+            android:id="@+id/UsrProfileImg"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:cropToPadding="false" />-->
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="171dp"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Large Text"
+                    android:id="@+id/p_name" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="City,State"
+                    android:id="@+id/p_local" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Company"
+                    android:id="@+id/p_company" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Years of expertise"
+                    android:id="@+id/p_exp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Email"
+                    android:id="@+id/p_email"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Contact"
+                    android:id="@+id/view_contact" />
+
+            </LinearLayout>
+        </FrameLayout>
+
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="203dp"
+        android:id="@+id/scrollView2" >
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="216dp"
+            android:layout_weight="1.01"
+            android:weightSum="1">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="8dp"
+                android:weightSum="1"
+                android:id="@+id/bottomProfile"
+                android:orientation="vertical"
+                android:layout_below="@+id/topProfile">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="First Name"
+                    android:id="@+id/textView" />
+
+                <EditText
+                    android:layout_width="327dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/fname"
+                    android:text="First Name" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Last Name"
+                    android:id="@+id/textView2" />
+
+                <EditText
+                    android:layout_width="327dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lname"
+                    android:text="Lastname" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="City"
+                    android:id="@+id/textView3" />
+
+                <EditText
+                    android:layout_width="329dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/city"
+                    android:text="City" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="State"
+                    android:id="@+id/textView4" />
+
+                <EditText
+                    android:layout_width="340dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/st"
+                    android:text="St" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Company"
+                    android:id="@+id/textView5" />
+
+                <EditText
+                    android:layout_width="400dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/company"
+                    android:text="Company" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Contact"
+                    android:id="@+id/textView6" />
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/contact"
+                    android:text="Contact" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"></LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Finished"
+        android:id="@+id/submit" />
+
+
+</LinearLayout>
