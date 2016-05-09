@@ -36,7 +36,7 @@ public class Home extends AppCompatActivity {
         //Gets User profile and the message thread chosen
         userProfile = (ProfileDAO) data.getParcelable("userProfile");
          b1 = (ImageButton) findViewById(R.id.profileBtn);
-      //  b2 = (ImageButton) findViewById(R.id.b2);
+        b2 = (ImageButton) findViewById(R.id.imageButton);
        b3 = (ImageButton) findViewById(R.id.imageButton4);
         b4 = (ImageButton) findViewById(R.id.imageButton5);
         b5 = (ImageButton) findViewById(R.id.action_Inbox);
@@ -54,13 +54,13 @@ public class Home extends AppCompatActivity {
             }
         });
 
- /*       b2.setOnClickListener(new OnClickListener(){
+      b2.setOnClickListener(new OnClickListener(){
             @Override
             public void onClick(View v){
-                Intent intent2 = new Intent(MainActivity.this, .class);
+                Intent intent2 = new Intent(Home.this, LearningHome.class);
                 startActivityForResult(intent2, 0);
             }
-        });*/
+        });
 
         b3.setOnClickListener(new OnClickListener(){
             @Override

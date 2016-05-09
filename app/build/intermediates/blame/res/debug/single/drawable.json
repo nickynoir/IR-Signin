@@ -1,103 +1,111 @@
 [
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pen.png",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\pen.png"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.png"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\profile.png"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.jpg",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\splash.jpg"
-    },
-    {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\circle.png"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a.png",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\a.png"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\book.png",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\book.png"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_vector.jpg",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\android_vector.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_vector.jpg",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\android_vector.jpg"
-    },
-    {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.png",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\circle.png"
-    },
-    {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e.jpeg",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\e.jpeg"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\squares.png",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\squares.png"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pen.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\pen.png"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e.jpeg",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\e.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d.png",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\d.png"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_search.png",
@@ -108,20 +116,24 @@
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up.png",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\up.png"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bb.jpeg",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\bb.jpeg"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment.png",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\comment.png"
-    },
-    {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\library.png",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\library.png"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile1.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\profile1.png"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cross.png",
@@ -140,8 +152,224 @@
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\user.png"
     },
     {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c.jpeg",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\c.jpeg"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrows.png",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\arrows.png"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.png",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aa.jpeg",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\aa.jpeg"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bb.jpeg",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\bb.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\squares.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\squares.png"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_nsu.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\bg_nsu.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuser.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\kuser.png"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\d.png"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pen.png",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\pen.png"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c.jpeg",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\c.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aa.jpeg",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\aa.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.jpg",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\book.png",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\book.png"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_vector.jpg",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\android_vector.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_nsu.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\bg_nsu.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\book.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\book.png"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\squares.png",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\squares.png"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d.png",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\d.png"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up.png",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment.png",
+        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\comment.png"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\a.png"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.jpg",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\comment.png"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -156,16 +384,24 @@
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrows.png",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\arrows.png"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.png",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.png"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cross.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\cross.png"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\library.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\library.png"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
@@ -176,20 +412,12 @@
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aa.jpeg",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\aa.jpeg"
-    },
-    {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_search.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\ic_action_search.png"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
@@ -200,8 +428,8 @@
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuser.png",
@@ -212,16 +440,16 @@
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\profile1.png"
     },
     {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_nsu.xml",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\bg_nsu.xml"
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrows.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\arrows.png"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\drawable\\add.png"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\share.png"
-    },
-    {
-        "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
-        "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\drawable\\down.png"
     },
     {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",

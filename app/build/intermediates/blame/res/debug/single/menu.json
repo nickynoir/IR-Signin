@@ -8,7 +8,19 @@
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
     },
     {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
         "merged": "D:\\Nyky\\AppDev\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
         "source": "D:\\Nyky\\AppDev\\IR-Signin\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail.xml",
+        "source": "C:\\Users\\xNykyrian\\AndroidStudioProjects\\IR-Signin\\app\\src\\main\\res\\menu\\detail.xml"
     }
 ]
